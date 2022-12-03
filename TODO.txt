@@ -1,0 +1,6 @@
+TO DO:
+
+-slanje brake komande
+-ispitati da li salje sve podatke
+-osposobiti remote upravljanje sa Rpijem
+-detekcija linije na snimku
